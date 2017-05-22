@@ -2,7 +2,6 @@
 # Above is the shebang 
 name = "Zachary Waldron"
 id = 1234567
-my_summer_plans = ["Sleep", "Eat", "Drive", "Work", "Game"]
 
 def otherThings():
     # Gets all characters before the first space
